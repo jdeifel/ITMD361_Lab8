@@ -54,3 +54,13 @@
 #sidebar ul li a:hover {
   background-color: #000;
 }
+
+#navbar-container {
+  float: left;
+  width: 100%;
+  position: relative;
+}
+
+#onpage {
+  text-decoration: underline overline;
+}
